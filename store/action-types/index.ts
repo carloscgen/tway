@@ -1,0 +1,8 @@
+export enum ActionType {
+    SET_LOADING = 'SET_LOADING',
+    ADD_IMAGES = 'ADD_IMAGES',
+    SET_IMAGE = 'SET_IMAGE',
+    ADD_IMAGE = 'ADD_IMAGE',
+    SET_COLOR = 'SET_COLOR',
+    SET_FILTERS = 'SET_FILTERS',
+}
